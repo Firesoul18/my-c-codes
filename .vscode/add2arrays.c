@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include<stdlib.h>
+int main ()
+{
+    int *a; //*b;
+    a=(int *)malloc(5*sizeof(int));
+    //b=(int *)malloc(5*sizeof(int));
+
+    a[0]=11;
+    a[1]=2;
+    a[2]=5;
+    a[3]=9;
+    a[4]=3;
+    /*b[0]=3;
+    b[1]=4;
+    b[2]=6;
+    b[3]=7;
+    b[4]=11; */
+    return 0;
+}
+
+int sorting(int *a)
+{
+    
+}

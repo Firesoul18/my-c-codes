@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "time.h": "c",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "typeinfo": "cpp",
+        "windows.h": "c",
+        "random": "c"
+    }
+}
